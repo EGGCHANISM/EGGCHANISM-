@@ -5,7 +5,7 @@
   <br>
 
   <!-- Gambar Banner Utama -->
-  <img src="https://files.catbox.moe/t53vlu.png" width="450" alt="Banner Estetik" />
+  <img src="https://files.catbox.moe/t53vlu.png" width="450" alt="" />
   <br><br>
 
   <!-- Sub-judul Fancy Font -->
@@ -24,7 +24,7 @@
   <br>
 
   <!-- Stiker / Logo PNG Transparan -->
-  <img src="LINK_STIKER_TRANSPARAN_ANDA.png" width="250" alt="Stiker" />
+  <img src="" width="250" alt="Stiker" />
   <br><br>
 
   <!-- Pembatas Bawah -->

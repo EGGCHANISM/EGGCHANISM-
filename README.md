@@ -1,2 +1,2 @@
 
-<img width="2000" height="2000" alt="Tak berjudul1_20261112213555 (1)" src="https://github.com/user-attachments/assets/2cd8a82a-2745-4e43-bc0b-889fdcf15cd3" />
+<img width="1731" height="1186" alt="Tak berjudul1_20261113230240" src="https://github.com/user-attachments/assets/e99aeaf3-8afa-4c5d-af93-4dbec5b5819d" />

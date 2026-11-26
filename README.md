@@ -8,7 +8,7 @@
   <p>" 𝐈 𝐬𝐞𝐞 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 "
 </p>
 
-<p> Ram/Rammy , 17 n INTP . I'm a shy person and having trouble to uh social stuff so go INT me guys:] </p>
+<p> Ram/Rammy , 18 n INTP . I'm a shy person and having trouble to uh social stuff so go INT me guys:] </p>
 
   <p>
     "We'll go back in the summer, like you said you wanted... We could get the ice pops you always liked, and make sandcastles."
